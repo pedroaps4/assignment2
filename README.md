@@ -3,7 +3,7 @@
 An interactive Streamlit app built on live data from the **World Bank Indicators API (v2)**.
 
 **Live app:** https://assignment2-vp4gefmdh3bxen7kxjd7nq.streamlit.app/
-**Repository:** _paste your GitHub URL here_
+**Repository:** https://github.com/pedroaps4/assignment2
 
 ---
 
